@@ -5,6 +5,16 @@ monkey time 🤪
 
 <details>
 
+<summary>Audio/Radio</summary>
+
+|Problem|Points|
+|-|-|
+|
+
+</details>
+
+<details>
+
 <summary>Misc</summary>
 
 |Problem|Points|
