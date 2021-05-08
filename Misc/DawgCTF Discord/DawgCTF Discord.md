@@ -12,7 +12,7 @@ You can use it for discussing challenges, getting assistance from challenge auth
 
 POV: When Vivian steals your only writeup XD ~~smh i contribute 5 actual points with my blood sweat and tears and you just steal my writeup? smh 🤣~~
 
-~~Exactly what the description says lol <- Vivian this is a writeup ur supposed to **explain** LOL ~~
+~~Exactly what the description says lol <- Vivian this is a writeup ur supposed to **explain** LOL~~
 
 This was a vErY coMpLiCaTeD prOceSs 
 
