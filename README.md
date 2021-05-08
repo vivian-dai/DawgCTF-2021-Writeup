@@ -10,6 +10,7 @@ monkey time 🤪
 |Problem|Points|
 |-|-|
 |[Third Eye](./Audio%20or%20Radio/Third%20Eye/Third%20Eye.md)|75|
+|[Tag, You're It!](./Audio%20or%20Radio/Tag,%20You're%20It!/Tag,%20You're%20It!.md)|100|
 
 </details>
 
