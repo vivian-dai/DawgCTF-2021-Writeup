@@ -9,7 +9,17 @@ monkey time 🤪
 
 |Problem|Points|
 |-|-|
-|
+|[Third Eye](./Audio%20or%20Radio/Third%20Eye/Third%20Eye.md)|75|
+
+</details>
+
+<details>
+
+<summary>Fwn (Forensics/Web/Network)</summary>
+
+|Problem|Points|
+|-|-|
+|[These Ladies Paved Your Way](./Fwn/These%20Ladies%20Paved%20Your%20Way/These%20Ladies%20Paved%20Your%20Way.md)|150|
 
 </details>
 
