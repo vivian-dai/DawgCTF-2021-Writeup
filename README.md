@@ -21,6 +21,7 @@ monkey time 🤪
 
 |Problem|Points|
 |-|-|
+|[Just A Comment](./Fwn/Just%20A%20Comment/Just%20A%20Comment.md)|50|
 |[These Ladies Paved Your Way](./Fwn/These%20Ladies%20Paved%20Your%20Way/These%20Ladies%20Paved%20Your%20Way.md)|150|
 
 </details>
